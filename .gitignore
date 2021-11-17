@@ -1,6 +1,3 @@
 
-.ipynb_checkpoints/Arrays-checkpoint.ipynb
-.ipynb_checkpoints/String-checkpoint.ipynb
-.ipynb_checkpoints/Regular Expressions-checkpoint.ipynb
-.ipynb_checkpoints/Functions-checkpoint.ipynb
-.vscode/settings.json
+.ipynb_checkpoints/*
+.vscode/*
