@@ -31,8 +31,12 @@ With **exec and test methods** are very similar to **match method** the only dif
 **lastIndex** a read/write property of RegExp objects. For regular expressions with the "g" attribute set, it contains an integer that specifies the character position immediately following the last match found by the **RegExp.exec()** and **RegExp.test()** methods. These methods use this property as the starting point for the next search they conduct.      
 
 ### RegExp
-* RegExp.prototype.exec( String string_to_seach ) - The exec() method executes a search for a match in a specified string. Returns a result array (match_value,index,inpute_string,graoup_name), or null.    
-* RegExp.prototype.test( String string_to_seach ) - The test() method executes a search for a match between a regular expression and a specified string. Return boolean.    
+* RegExp.prototype.exec( String string_to_seach ) - The exec() method executes a search for a match in a specified string.  
+       
+  **Returns** a result array (match_value,index,inpute_string,group_name), or null.           
+* RegExp.prototype.test( String string_to_seach ) - The test() method executes a search for a match between a regular expression and a specified string. 
+         
+  **Return** boolean.    
 
 ### String
 * String.prototype.match( RegExp regular_expression_pattern ) - The match() method retrieves the result of matching a string against a regular expression.    
