@@ -5,6 +5,13 @@
 
 # Cheat Sheet
 
+# Arrays
+# Callback Functions
+# Class
+# Data Types
+# Dates
+# Functions
+
 # Regular Expression     
 
 [Regular Expression Hub Cheat Sheet](https://github.com/johncuseyhub/RegularExpressionHub).   
@@ -52,4 +59,8 @@ With **exec and test methods** are very similar to **match method** the only dif
 **Replace** first occurrence.   
 * String.prototype.replaceAll( RegExp regular_expression_pattern ) - The replaceAll() method r**eturns** a new string with all matches of a pattern replaced by a replacement.      
 * String.prototype.search( RegExp regular_expression_pattern ) - The search() method executes a search for a match between a regular expression and this String object.       
-  **Return** index first occurrence.     
+  **Return** index first occurrence. 
+  
+  # String
+  # Variables
+  
