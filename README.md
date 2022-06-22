@@ -5,6 +5,8 @@
 
 # Cheat Sheet
 
+# Regular Expression        
+
 ## RegExp Object
 There are two ways to create a RegExp object: a **literal notation** and a **constructor**. Using pattern and modifier.
 
